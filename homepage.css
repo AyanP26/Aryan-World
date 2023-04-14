@@ -1,0 +1,39 @@
+h2{
+    font-family:Comic Sans Ms;
+
+
+
+
+}
+body {
+    background-image: linear-gradient(#e7a300, #f0c200, #f2db00, #fff060, #f9ffa1);
+}
+
+.floatl {
+    float: left;
+}
+
+.floatr {
+    float: right;
+}
+
+.floatc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.explore {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin: auto;
+}
+
+.rainbowtext {
+    background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+}
